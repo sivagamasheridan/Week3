@@ -18,6 +18,7 @@ public class ExampleWeek3 {
     public static void main(String[] args) 
     {
        System.out.println("learning pull operations");
+      System.out.println("learning fetch");
     }
     
 }
